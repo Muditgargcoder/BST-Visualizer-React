@@ -1,0 +1,30 @@
+.App{
+  min-height: 97vh;
+  padding: 10px;
+  background-color: rgb(11, 31, 50);
+}
+
+.contain{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form{
+  justify-content: left;
+}
+
+button{
+  margin-left: 5px;
+}
+
+.node{
+  color: white;
+  box-shadow: 0 0 6px 5px rgb(46 47 53);
+  height: 20px;
+  width: 20px;
+  padding: 8px;
+  border-radius: 10000px;
+}
+
+
