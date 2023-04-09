@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BST-Visualizer-React/static/css/main.f7a9e137.css",
+    "main.js": "/BST-Visualizer-React/static/js/main.2f54fa14.js",
+    "static/js/787.62156ecc.chunk.js": "/BST-Visualizer-React/static/js/787.62156ecc.chunk.js",
+    "static/media/logo.svg": "/BST-Visualizer-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BST-Visualizer-React/index.html",
+    "main.f7a9e137.css.map": "/BST-Visualizer-React/static/css/main.f7a9e137.css.map",
+    "main.2f54fa14.js.map": "/BST-Visualizer-React/static/js/main.2f54fa14.js.map",
+    "787.62156ecc.chunk.js.map": "/BST-Visualizer-React/static/js/787.62156ecc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a9e137.css",
+    "static/js/main.2f54fa14.js"
+  ]
+}
